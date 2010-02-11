@@ -1,0 +1,4 @@
+Dependencies:
+
+  - Django >= 1.1 http://www.djangoproject.org/
+
